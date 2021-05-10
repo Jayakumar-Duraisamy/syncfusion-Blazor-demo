@@ -1,1 +1,0 @@
-# syncfusion-Blazor-demo
